@@ -16,7 +16,7 @@
     - `pip install pyinstaller`
 2. Create `.exe` file of your app with icon.
     - `pyinstaller.exe --onefile --icon=app_icon.ico weather_app.py`
-3. Copy your `.exe` (Rename with **weather_app**) file from `dist` folder and Paste in your root directory(working directory).
-4. Now just click on your `weather_app` icon and Play with Weather.
+3. Copy your `.exe` (Rename with **weather_app**) file from `dist` folder and Paste in your root directory (working directory).
+4. Now just Click on your `weather_app` icon and Play with Weather.
 
 # Happy Coding!
