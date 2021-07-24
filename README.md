@@ -8,10 +8,10 @@
 2. Create your working directory anywhere in your local machine.
 3. Clone the project by running from cmd (make sure that you are in the newly created working directory first!):
     - `git clone https://github.com/muhammad-rajib/weather-app.git`
-4. Run the following in the cmd:
+4. Run the following in the cmd (make sure that you are in weather-app directory):
     - `python weather_app.py`
-    
-## How to convert this app to `.exe` file with icon:
+
+## Convert `weather_app.py` file to an executable `.exe` file with icon:
 1. Run the following command to install `pyinstaller` first.
     - `pip install pyinstaller`
 2. Create `.exe` file of your app with icon.
